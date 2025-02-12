@@ -22,4 +22,3 @@ The data visualization will focus on Hawaii's PM2.5 levels before, during, and a
 - **Choosing an Effective Visual:** Using line charts to focus on the trends of PM2.5 levels before, during, and after the wildfire.
 - **Decluttering:** Keeping visualization simple to avoid unnecessary distractions.
 - **Annotation:** Using annotation to explain nuances in data and highlight important info to pay attention to.
-
