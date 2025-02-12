@@ -18,6 +18,8 @@ The data visualization will focus on Hawaii's PM2.5 levels before, during, and a
 - Timeframe: will include data from July to August to assess the changes before, during, and after the Lahaina fire.
 
 ### Strategies from "Storytelling With Data"
-- TODO: add more
-- **Decluttering:** 
+- **Context:** Using explanatory analysis to communicate the impact of wildfires to Hawaii's air quality.
+- **Choosing an Effective Visual:** Using line charts to focus on the trends of PM2.5 levels before, during, and after the wildfire.
+- **Decluttering:** Keeping visualization simple to avoid unnecessary distractions.
+- **Annotation:** Using annotation to explain nuances in data and highlight important info to pay attention to.
 
